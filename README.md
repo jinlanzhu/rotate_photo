@@ -6,7 +6,7 @@
 ## 步骤
 ### 准备
 先准备12张图片备用（也可以是6张），放到images文件夹中
-![相册图片准备](images/photo_img.png)
+![相册图片准备](../../images/photo_img.png)
 
 ### 文件结构
 
